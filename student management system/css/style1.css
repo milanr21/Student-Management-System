@@ -1,0 +1,59 @@
+* {
+     box-sizing: border-box;
+ }
+
+
+ 
+.title {
+    background-color: rgb(230, 125, 181);
+    width: 90%;
+    align-items: center;
+    text-align: center;
+    margin: 15px auto;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    border-radius: 10px;
+}
+
+.title .btn {
+    padding: 18px 20px;
+    text-transform: uppercase;
+    margin-top: 20px;
+    border-radius: 14px;
+    letter-spacing: 5px;
+}
+
+table {
+    margin-top: 200px;
+    border: 1px solid red;
+
+}
+
+#std {
+    font-size: 26px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: bold;
+}
+
+#choose {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 700;
+}
+
+#btn12 {
+    margin: 30px 30px;
+    padding: 20px 30px;
+    width: 40%;
+    text-transform: uppercase;
+    letter-spacing:6px;
+    font-size: 15px;
+    font-weight: 900;
+    border-radius: 8px;
+    
+}
+
+#tab {
+    padding: 20px;
+}
